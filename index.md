@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Mianite RPG Wiki
+
+[Image](https://pbs.twimg.com/profile_images/1362382132988022787/RK8VwgpO_400x400.jpg)
 
 You can use the [editor on GitHub](https://github.com/MianiteRPG/wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
